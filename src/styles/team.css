@@ -8,18 +8,14 @@ ul {
 }
 .container {
   margin: auto;
-  height: 100vh;
+  height: auto;
   width: 100%;
-  /* background-image: url(/public/images/back.jpg); */
-  background-size: cover;
-  background-position: center;
 }
 
 .cards {
-  height: 500px;
+  height: auto;
   width: 90%;
   margin: auto;
-  margin-top: 40px;
 }
 
 .slick-slide > div {
@@ -30,7 +26,7 @@ ul {
 }
 
 .settings {
-  border: 2px solid green;
+  /* border: 2px solid green; */
 }
 
 .slick-dots {
